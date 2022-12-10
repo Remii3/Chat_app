@@ -1,4 +1,4 @@
-#How to use
+# How to use
 
     1. Run XAMPP apache and sql
     2. Open https://localhost/phpmyadmin/ 
